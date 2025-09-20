@@ -63,13 +63,3 @@ Basic statistics about the dataset
 A list of top authors
 
 Publication trends over time
-
-(Optional) Graphs and plots if you have Matplotlib installed
-
-Notes
-
-This is a beginner-friendly project, written in simple Python.
-
-You can edit the code to focus on different research questions.
-
-Git LFS is required to download and work with the metadata.csv file.
